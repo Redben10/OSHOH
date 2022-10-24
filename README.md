@@ -1,5 +1,3 @@
-# Bandruf-Games
-Fun site to play at schools 
-
-# Main site : https://bandruf.github.io/Bandruf-Games/
-ALT URL : https://socialstudiesbest.vercel.app/pages/games.html
+This site it broken pls do not fork.
+This is a dead site.
+Thank you
