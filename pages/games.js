@@ -678,6 +678,12 @@ export const games = [
         viewed_on: 0,
     },
     {
+        gamename: "Snowrider",
+        gameIMG : "",
+        link: "redben10.github.io/snowrider2"   ,
+        viewed_on: 0,
+    },
+    {
         gamename: "ludi",
         gameIMG : "",
         link: "bobiscool1.herokuapp.com/"   ,
